@@ -14,7 +14,7 @@ See `requirements.txt` for dependencies.
 
 ## Usage
 ```bash
-python transit_trapezoid_local.py
+python transit_from_archive_checkdeps.py
 ```
 Follow the prompts to enter parameters. The program will display the simulated transit light curve.
 
