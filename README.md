@@ -8,7 +8,6 @@ It is designed for **students, amateur astronomers, and educators** to explore h
 - Input observing parameters: total span, cadence, noise level
 - Generates trapezoid light curve with ingress/egress durations
 - Educational outputs: T14, T23, depth, inclination
-![Exoplanet transit light curve](assets/transit_example.png)
 
 ## Requirements
 See `requirements.txt` for dependencies.
@@ -28,6 +27,6 @@ Follow the prompts to enter parameters. The program will display the simulated t
 - Total span = 20 days
 - Cadence = 10 min
 - Noise = 300 ppm
-
+assets/trappist1e_transit_curve_demo.png
 ## License
 This project is licensed under the MIT License.
