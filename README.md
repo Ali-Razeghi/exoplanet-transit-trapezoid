@@ -8,7 +8,6 @@ It is designed for **students, amateur astronomers, and educators** to explore h
 - Input observing parameters: total span, cadence, noise level
 - Generates trapezoid light curve with ingress/egress durations
 - Educational outputs: T14, T23, depth, inclination
-![Exoplanet transit light curve](assets/transit_example.png)
 
 ## Requirements
 See `requirements.txt` for dependencies.
