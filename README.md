@@ -27,6 +27,9 @@ Follow the prompts to enter parameters. The program will display the simulated t
 - Total span = 20 days
 - Cadence = 10 min
 - Noise = 300 ppm
-assets/trappist1e_transit_curve_demo.png
+<p align="center">
+  <img src="assets/trappist1e_transit_curve_demo.png" alt="Exoplanet transit light curve" width="600">
+</p>
+
 ## License
 This project is licensed under the MIT License.
